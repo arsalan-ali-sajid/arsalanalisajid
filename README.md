@@ -61,6 +61,7 @@ Investigate configurations and settings
 Identify the root cause
 Apply a fix
 Verify everything is working as expected
+--
 🎯 Purpose
 I built this portfolio to practice working like an IT Support professional.
 
